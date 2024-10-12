@@ -17,6 +17,6 @@ Libraries:
 
 About me:
 
-I‘m a product engineer, focusing on fundamentals like `web standards`, `accessibility`, `modern CSS`, `semantic HTML`, and `Web Components`.
+I‘m a product engineer, focusing on fundamentals like `Web Standards`, `Accessibility`, `Modern CSS`, `HTML-first architecture` and `Web Components`.
 
 I like to create applications using **"HTML-first"** framework/tools that only augment/enhance the web platform (not replace it or change it), with markup-first, small bundles and less UI-rendering JavaScript code.
