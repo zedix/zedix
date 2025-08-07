@@ -1,6 +1,6 @@
 # About me
 
-[![GitHub](https://img.shields.io/badge/GitHub-%40ashtom-239a3b.svg)](https://github.com/zedix)
+[![GitHub](https://img.shields.io/badge/GitHub-%40zedix-239a3b.svg)](https://github.com/zedix)
 
 Hi there 👋🏻, I‘m a product engineer from France 🇫🇷, focusing on fundamentals like `Web Standards`, `Accessibility`, `Modern CSS`, `HTML-first architecture` and `Web Components`.
 
